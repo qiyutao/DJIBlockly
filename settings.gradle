@@ -1,0 +1,2 @@
+include ':app', ':blocklylib-core', ':blocklylib-vertical1'
+include ':dJISDKLIB'
